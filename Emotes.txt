@@ -1,0 +1,2 @@
+FLCHANstepping https://cdn.discordapp.com/emojis/1175532095209213982.gif?size=96&quality=lossless
+example_emote_name your_link_here
