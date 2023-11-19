@@ -1,4 +1,5 @@
 # Discord for powershell  
+### NOTE: THIS MIGHT GET YOU BANNED BECAUSE THIS IS AGAINST DISCORD TOS I AM NOT RESPONSIBLE FOR YOU GETTING BANNED I AM JUST A GUY WHO WRITES CODE FOR FUN  
 this is some code I wrote that sends discord messages in powershell via http post requests
 
 ### example  
