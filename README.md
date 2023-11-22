@@ -17,4 +17,4 @@ Emotes are  stored in ***Emotes.txt*** and are in the format `emote_name emote_u
 Signatures can be found on line 31 of ***discord.ps1*** and can be disabled if you make the variable `$signature` blank
 
 * Custom Themes  
-Themes can be applied with `/themes`
+Themes can be applied with `/themes` and new themes can be added / edited via ***theme.ps1***.
